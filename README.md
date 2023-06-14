@@ -14,6 +14,11 @@ Classic methods, also known as geometric-based, use geometric, probabilistic, an
 
 Considering all the possible combinations for these three classifications, we can define ten categories for the SLAM, VO, and SfM monocular pure visual algorithms: Classic + Dense + Direct, Classic + Sparse + Direct, Classic + Dense + Indirect, Classic + Sparse + Indirect, Classic + Hybrid, ML + Dense + Direct, ML + Sparse + Direct, ML + Dense + Indirect, ML + Classic + Sparse + Indirect and ML + Hybrid. Figure 1 presents a diagram for the proposed extended taxonomy.
 
+### Figure1. Extended taxonomy
 ![Alt text](https://github.com/erickherreraresearch/TaxonomyPureVisualMonocularSLAM/blob/main/images/taxonomy.JPG?raw=true "Extended taxonomy for monocular 3D reconstruction methods")
 
 Following the proposed taxonomy, Table 1 presents the most significant proposals for pure visual monocular SLAM, SfM, and VO made from 2000 to 2023.
+
+### Table 1. Classic methods
+| Method | Type | Direct or Indirect | Map density | Article | Code |
+| Jin et al. (2000)| SfM | Indirect | Sparse | [paper]([https://www.google.com](https://ieeexplore.ieee.org/document/854954)https://ieeexplore.ieee.org/document/854954) | NA |
