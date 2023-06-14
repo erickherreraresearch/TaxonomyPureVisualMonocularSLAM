@@ -13,4 +13,4 @@ Due to the impressive advances made in Artificial Intelligence (AI), specificall
 Classic methods, also known as geometric-based, use geometric, probabilistic, and optimization, among other techniques, to build their entire pipeline without requiring machine learning techniques. On the other hand, given the impressive advances in Machine Learning (ML) in recent years, many researchers have made important contributions by fusing classic pipelines with ML techniques to improve the localization or mapping procedures.
 
 Considering all the possible combinations for these three classifications, we can define ten categories for the SLAM, VO and SfM monocular pure visual algorithms: Classic + Dense + Direct, Classic + Sparse + Direct, Classic + Dense + Indirect, Classic + Sparse + Indirect, Classic + Hybrid, ML + Dense + Direct, ML + Sparse + Direct, ML + Dense + Indirect, ML + Classic + Sparse + Indirect and ML + Hybrid. Figure 1 presents a diagram for the proposed extended taxonomy.
-
+![Alt text](tps://github.com/erickherreraresearch/TaxonomyPureVisualMonocularSLAM/blob/main/images/taxonomy.JPG?raw=true "Extended taxonomy for monocular 3D reconstruction methods")
