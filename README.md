@@ -40,3 +40,7 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 |  LDSO (2018) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8593376) | [code](https://github.com/tum-vision/LDSO) |
 |  DSM (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9102352) | [code](https://github.com/jzubizarreta/dsm) |
 |  SVO (2014) | SLAM | Hybrid | Sparse | [paper](https://ieeexplore.ieee.org/document/6906584) | [code](https://github.com/uzh-rpg/rpg_svo) |
+
+# References
+[1] Aqel, M. O. A., Marhaban, M. H., Saripan, M. I., & Ismail, N. B. (2016). Review of visual odometry: types, approaches, challenges, and applications. SpringerPlus 2016 5:1, 5(1), 1–26. https://doi.org/10.1186/S40064-016-3573-7
+[2] Engel, J., Koltun, V., & Cremers, D. (2017). Direct Sparse Odometry. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(3), 611–625. https://doi.org/10.1109/TPAMI.2017.2658577
