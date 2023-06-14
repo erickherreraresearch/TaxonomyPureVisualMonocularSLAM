@@ -23,3 +23,20 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 | Method | Type | Direct or Indirect | Map density | Article | Code |
 | --- | --- | --- | --- | --- | --- |
 | Jin et al. (2000)| SfM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/854954) | NA |
+| MonoSLAM (2007) | SfM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/4160954) | [code](https://github.com/marcromani/MonoSLAM) |
+| PTAM (2007) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/4538852) | [code](https://github.com/Oxford-PTAM/PTAM-GPL) |
+| OpenMVG (2013) | SFM | Indirect | Sparse | [paper](https://link.springer.com/chapter/10.1007/978-3-319-56414-2_5) | [code](https://github.com/openMVG/openMVG/tree/v2.0) |
+| ORB-SLAM (2015) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/7219438) | [code](https://github.com/raulmur/ORB_SLAM) |
+| COLMAP (2016) | SFM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/7780814) | [code](https://github.com/colmap/colmap) |
+| ORB-SLAM2 (2017) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/7946260) | [code](https://github.com/raulmur/ORB_SLAM2) |
+| ORB-SLAM3 (2021) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/9440682) | [code](https://github.com/UZ-SLAMLab/ORB_SLAM3) |
+| Valgaerts et al. (2011) | SFM | Indirect | Dense | [paper](https://link.springer.com/article/10.1007/s11263-011-0466-7) | NA |
+| Ranftl et al. (2016) | SFM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/7780809) | NA |
+|  Stühmer et al. (2010) | SLAM | Indirect | Dense | [paper](https://link.springer.com/chapter/10.1007/978-3-642-15986-2_2) | NA |
+|  DTAM (2011) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/abstract/document/6126513) | [code](https://github.com/Rintarooo/DTAM_Mapping) |
+|  REMODE (2014) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/abstract/document/6907233) | [code](https://github.com/uzh-rpg/rpg_open_remode) |
+|  LSD-SLAM (2014) | SLAM | Indirect | Dense | [paper](https://link.springer.com/chapter/10.1007/978-3-319-10605-2_54) | [code](https://github.com/tum-vision/lsd_slam) |
+|  DSO (2017) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/7898369) | [code](https://github.com/JakobEngel/dso) |
+|  LDSO (2018) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8593376) | [code](https://github.com/tum-vision/LDSO) |
+|  DSM (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9102352) | [code](https://github.com/jzubizarreta/dsm) |
+|  SVO (2014) | SLAM | Hybrid | Dense | [paper](https://ieeexplore.ieee.org/document/6906584) | [code](https://github.com/uzh-rpg/rpg_svo) |
