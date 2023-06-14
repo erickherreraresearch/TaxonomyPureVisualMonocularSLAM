@@ -21,4 +21,5 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 
 ### Table 1. Classic methods
 | Method | Type | Direct or Indirect | Map density | Article | Code |
+| --- | --- | --- | --- | --- | --- |
 | Jin et al. (2000)| SfM | Indirect | Sparse | [paper]([https://www.google.com](https://ieeexplore.ieee.org/document/854954)https://ieeexplore.ieee.org/document/854954) | NA |
