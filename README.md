@@ -39,4 +39,4 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 |  DSO (2017) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/7898369) | [code](https://github.com/JakobEngel/dso) |
 |  LDSO (2018) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8593376) | [code](https://github.com/tum-vision/LDSO) |
 |  DSM (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9102352) | [code](https://github.com/jzubizarreta/dsm) |
-|  SVO (2014) | SLAM | Hybrid | Dense | [paper](https://ieeexplore.ieee.org/document/6906584) | [code](https://github.com/uzh-rpg/rpg_svo) |
+|  SVO (2014) | SLAM | Hybrid | Sparse | [paper](https://ieeexplore.ieee.org/document/6906584) | [code](https://github.com/uzh-rpg/rpg_svo) |
