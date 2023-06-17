@@ -50,9 +50,9 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 | Sun et al. (2022) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/9823399) | NA |
 | Lee et al. (2022) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/9994237) | NA |
 | SVR-Net (2023) | SLAM | Indirect | Sparse | [paper](https://www.mdpi.com/1424-8220/23/8/3942) | NA |
-| DeMoN (2017) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8100079) | [code](https://github.com/lmb-freiburg/demon) |
+| DeMoN (2017) | SFM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8100079) | [code](https://github.com/lmb-freiburg/demon) |
 | DeepV2D (2020) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/1812.04605) | [code](https://github.com/princeton-vl/DeepV2D) |
-| VOLDOR (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9561230) | [code](https://github.com/htkseason/VOLDOR) |
+| VOLDOR (2020) | VO | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9561230) | [code](https://github.com/htkseason/VOLDOR) |
 | DROID-SLAM (2021) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2108.10869) | [code](https://github.com/princeton-vl/DROID-SLAM) |
 | SDF-SLAM (2022) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2108.10869) | [code](https://github.com/princeton-vl/DROID-SLAM) |
 | NeRF-SLAM (2022) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2210.13641) | [code](https://github.com/ToniRV/NeRF-SLAM) |
@@ -62,8 +62,12 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 | DeepFusion (2019) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8793527) | [code](https://github.com/lmb-freiburg/deeptam) |
 | CodeSLAM (2018) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8578369) | [code](https://github.com/silviutroscot/CodeSLAM) |
 | DeepFactors (2020) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8954779) | [code](https://github.com/jczarnowski/DeepFactors) |
-| DVSO (2018) | SLAM | Direct | Sparse | [paper](https://arxiv.org/abs/1807.02570) | [code](https://github.com/SenZHANG-GitHub/dvso) |
-
+| DVSO (2018) | VO | Direct | Sparse | [paper](https://arxiv.org/abs/1807.02570) | [code](https://github.com/SenZHANG-GitHub/dvso) |
+| CNN-DVO (2020) | SLAM | Direct | Sparse | [paper](https://ieeexplore.ieee.org/document/8578314) | [code](http://www.cim.mcgill.ca/∼mrl/ran/crv2020) |
+| D3VO (2020) | VO | Direct | Sparse | [paper](https://ieeexplore.ieee.org/document/9157454) | NA |
+| MonoRec (2021) | SFM | Direct | Sparse | [paper](https://ieeexplore.ieee.org/document/9578522) | [code](https://github.com/Brummi/MonoRec) |
+| DDSO (2022) | VO | Direct | Sparse | [paper](https://ieeexplore.ieee.org/document/9406436) | [code](https://github.com/Brummi/MonoRec) |
+| CNN-SVO (2019) | VO | Direct | Sparse | [paper](https://ieeexplore.ieee.org/document/8794425) | [code](https://github.com/yan99033/CNN-SVO) |
 
 # References
 1. Aqel, M. O. A., Marhaban, M. H., Saripan, M. I., & Ismail, N. B. (2016). Review of visual odometry: types, approaches, challenges, and applications. SpringerPlus 2016 5:1, 5(1), 1–26. https://doi.org/10.1186/S40064-016-3573-7
