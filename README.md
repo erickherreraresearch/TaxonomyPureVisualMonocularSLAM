@@ -41,6 +41,30 @@ Following the proposed taxonomy, Table 1 presents the most significant proposals
 |  DSM (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9102352) | [code](https://github.com/jzubizarreta/dsm) |
 |  SVO (2014) | SLAM | Hybrid | Sparse | [paper](https://ieeexplore.ieee.org/document/6906584) | [code](https://github.com/uzh-rpg/rpg_svo) |
 
+### Table 2. Machine learning-based methods
+| Method | Type | Direct or Indirect | Map density | Article | Code |
+| --- | --- | --- | --- | --- | --- |
+| DynaSLAM (2018)  | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/8421015) | [code](https://github.com/BertaBescos/DynaSLAM) |
+| BA-Net (2019) | SFM | Indirect | Sparse | [paper](https://arxiv.org/abs/1806.04807) | [code](https://github.com/frobelbest/BANet) |
+| Steenbeek et al. (2022) | SLAM | Indirect | Sparse | [paper](https://www.mdpi.com/2504-446X/6/3/79) | [code](https://github.com/annesteenbeek/sparse-to-dense-ros) |
+| Sun et al. (2022) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/9823399) | NA |
+| Lee et al. (2022) | SLAM | Indirect | Sparse | [paper](https://ieeexplore.ieee.org/document/9994237) | NA |
+| SVR-Net (2023) | SLAM | Indirect | Sparse | [paper](https://www.mdpi.com/1424-8220/23/8/3942) | NA |
+| DeMoN (2017) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/8100079) | [code](https://github.com/lmb-freiburg/demon) |
+| DeepV2D (2020) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/1812.04605) | [code](https://github.com/princeton-vl/DeepV2D) |
+| VOLDOR (2020) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/9561230) | [code](https://github.com/htkseason/VOLDOR) |
+| DROID-SLAM (2021) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2108.10869) | [code](https://github.com/princeton-vl/DROID-SLAM) |
+| SDF-SLAM (2022) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2108.10869) | [code](https://github.com/princeton-vl/DROID-SLAM) |
+| NeRF-SLAM (2022) | SLAM | Indirect | Dense | [paper](https://arxiv.org/abs/2210.13641) | [code](https://github.com/ToniRV/NeRF-SLAM) |
+| Rosinol et al. (2023) | SLAM | Indirect | Dense | [paper](https://ieeexplore.ieee.org/document/10030932) | NA |
+| CNN-SLAM (2017) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8100178) | [code](https://github.com/iitmcvg/CNN_SLAM) |
+| DeepTAM (2018) | SLAM | Direct | Dense | [paper](https://link.springer.com/chapter/10.1007/978-3-030-01270-0_50) | [code](https://github.com/lmb-freiburg/deeptam) |
+| DeepFusion (2019) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8793527) | [code](https://github.com/lmb-freiburg/deeptam) |
+| CodeSLAM (2018) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8578369) | [code](https://github.com/silviutroscot/CodeSLAM) |
+| DeepFactors (2020) | SLAM | Direct | Dense | [paper](https://ieeexplore.ieee.org/document/8954779) | [code](https://github.com/jczarnowski/DeepFactors) |
+| DVSO (2018) | SLAM | Direct | Sparse | [paper](https://arxiv.org/abs/1807.02570) | [code](https://github.com/SenZHANG-GitHub/dvso) |
+
+
 # References
 1. Aqel, M. O. A., Marhaban, M. H., Saripan, M. I., & Ismail, N. B. (2016). Review of visual odometry: types, approaches, challenges, and applications. SpringerPlus 2016 5:1, 5(1), 1–26. https://doi.org/10.1186/S40064-016-3573-7
 2. Engel, J., Koltun, V., & Cremers, D. (2017). Direct Sparse Odometry. IEEE Transactions on Pattern Analysis and Machine Intelligence, 40(3), 611–625. https://doi.org/10.1109/TPAMI.2017.2658577
